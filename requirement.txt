@@ -1,0 +1,15 @@
+tweepy
+pandas
+numpy
+nltk
+langdetect
+textblob
+matplotlib
+scikit-learn
+wordcloud
+shap
+torch
+tensorflow
+mplfinance
+joblib
+streamlit
